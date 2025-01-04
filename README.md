@@ -17,5 +17,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/sgtcrypto99
-[instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com/in/marlonsmikle
