@@ -14,6 +14,7 @@
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+https://i.imgur.com/Sf61eyC.png
 
-[twitter]: https://x.com/sgtcrypto99
+[X]: https://x.com/sgtcrypto99
 [linkedin]: https://linkedin.com/in/marlonsmikle
