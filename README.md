@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marlons9/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marlons9/azure-network-protocols)
 - <b>Commonwealth Bank Introduction to Cybersecurity</b>
+  - [Data Analysis]
 
 <h2>🤳Connect with me:</h2>
 
