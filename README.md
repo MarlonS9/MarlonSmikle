@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marlon, an <a href="https://linkedin.com/in/marlonsmikle">IT Professional</a>☺</h1>
+<h1>Hi, I'm Marlon, an <a href="https://linkedin.com/in/marlonsmikle">IT and Cybersecurity Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
