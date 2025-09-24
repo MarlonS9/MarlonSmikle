@@ -31,7 +31,7 @@
 net accounts /minpwage:1
 
 
-<# To check if net accounts /minpwage:1 successfully set the maximum password age, run the following command in an elevated Command Prompt or PowerShell session: 
+<# To check if net accounts /minpwage:1 successfully set the minimum password age, run the following command in an elevated Command Prompt or PowerShell session: 
 
 net accounts
 
