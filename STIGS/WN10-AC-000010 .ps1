@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
-   This parameter specifies the amount of time that an account will remain locked after the specified number of failed logon attempts.
-
+  The account lockout feature, when enabled, prevents brute-force password attacks on the system.
+  
 .NOTES
     Author          : Marlon Smikle
     LinkedIn        : linkedin.com/in/marlonsmikle/
